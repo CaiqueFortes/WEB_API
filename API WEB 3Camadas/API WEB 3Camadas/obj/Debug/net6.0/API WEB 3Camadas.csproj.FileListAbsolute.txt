@@ -1,0 +1,65 @@
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\appsettings.json
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\API WEB 3Camadas.exe
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\API WEB 3Camadas.deps.json
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\API WEB 3Camadas.runtimeconfig.json
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\API WEB 3Camadas.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\API WEB 3Camadas.pdb
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\obj\Debug\net6.0\API WEB 3Camadas.csproj.AssemblyReference.cache
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\obj\Debug\net6.0\API WEB 3Camadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\obj\Debug\net6.0\API WEB 3Camadas.AssemblyInfoInputs.cache
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\obj\Debug\net6.0\API WEB 3Camadas.AssemblyInfo.cs
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\obj\Debug\net6.0\API WEB 3Camadas.csproj.CoreCompileInputs.cache
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\obj\Debug\net6.0\API WEB 3Camadas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\obj\Debug\net6.0\API WEB 3Camadas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\obj\Debug\net6.0\scopedcss\bundle\API WEB 3Camadas.styles.css
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\obj\Debug\net6.0\API WEB 3Camadas.csproj.CopyComplete
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\obj\Debug\net6.0\API WEB 3Camadas.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\obj\Debug\net6.0\refint\API WEB 3Camadas.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\obj\Debug\net6.0\API WEB 3Camadas.pdb
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\obj\Debug\net6.0\API WEB 3Camadas.genruntimeconfig.cache
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\obj\Debug\net6.0\ref\API WEB 3Camadas.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\Business.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\Data.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\Model.dll
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\Business.pdb
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\Data.pdb
+C:\Users\fh180\source\repos\API WEB 3Camadas\API WEB 3Camadas\bin\Debug\net6.0\Model.pdb
